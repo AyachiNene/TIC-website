@@ -21,7 +21,7 @@ body {
 	font-family: "diyfont" !important;
 }
 
-.navigation-list .diyfont{
+.navigation-list .diyfont {
 	font-size: 100px;
 	cursor: pointer;
 }
@@ -41,7 +41,6 @@ body {
     color: #fff; 
 }
 
-.navbar-inverse .navbar-nav > li > a:focus, 
 .navbar-inverse .navbar-nav > li > a:hover {
   	background-color: #23527c; 
 }
@@ -98,10 +97,10 @@ body {
 /*navigation-list style*/
 
 .navigation-list {
-	padding-top: 60px;
+	padding-top: 80px;
 }
 
-.navigation-list h4{
+.navigation-list h4 {
 	text-align: center;
 	padding: 20px;
 }
@@ -113,8 +112,8 @@ body {
 }
 
 .display-box:hover {
-	box-shadow: 5px 3px 3px #999;
-	background-color: #fff;
+	box-shadow: 5px 3px 3px #999, -5px -3px 3px #f6f6f6;
+	/*background-color: #fff;*/
 }
 
 .navbar-brand img {
@@ -123,6 +122,7 @@ body {
 
 .display-box a {
 	text-decoration: none;
+	display: block;
 }
 
 
