@@ -38,6 +38,9 @@
 }
 
 /*striped section style*/
+.striped-section {
+	padding: 40px 0;
+}
 
 .striped-section:nth-of-type(odd) {
 	background-color: #337ab7;

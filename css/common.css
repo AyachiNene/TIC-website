@@ -5,6 +5,19 @@ body {
 	background-color: #ffffff;
 }
 
+a {
+	cursor: pointer;
+}
+
+.btn-primary {
+	background-color: #3464d9;
+	border-color: #3464d9;
+}
+
+.btn-primary:hover {
+	background-color: #49a3dd;
+	border-color: #49a3dd;
+}
 /*external fonts*/
 @font-face
 {
@@ -93,18 +106,18 @@ body {
 }
 
 #login {
-	max-width: 600px;
+	max-width: 450px;
 	margin: 150px auto;
 	border-radius: 10px;
 	box-shadow: 0 27px 24px 0 rgba(0,0,0,.2),
 				0 40px 77px 0 rgba(0,0,0,.22);
 	padding: 40px;
 	background-color: rgba(255,255,255,1);
-	text-align: center;
 	z-index: 1230;
 }
 
 #login h3 {
 	font-size: 28px;
 	padding-bottom: 20px;
+	text-align: center;
 }

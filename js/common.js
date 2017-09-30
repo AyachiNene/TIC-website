@@ -5,7 +5,10 @@ $(document).ready(function(){
 	  	$("#login-stage").show(500);
 	});
 
-	$("#login-stage").click(function(){
-		$("#login-stage").hide(500);
+	$("#login-stage").click(function(e){
+		if($(e.target)[0] == $("#login-stage")[0]){
+			$("#login-stage").hide(500);
+		}
 	});
+
 });

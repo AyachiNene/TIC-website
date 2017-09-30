@@ -87,7 +87,7 @@
 			</div>
 		</div>
 	</div>
-
+	<!-- introduction section -->
 	<div id="intro" class="striped-section">
 		<div class="container">
 			<div class="row">
@@ -105,6 +105,21 @@
 					<p>1992----1995：哈尔滨工业大学计算机科学与工程系讲师</p>
 					<p>1995----1999：哈尔滨工业大学计算机科学与工程系副教授</p>
 					<p>1999----2002：哈尔滨工业大学计算机科学与技术学院教授</p>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- news section -->
+	<div id="news" class="striped-section">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-3 hidden-xs hidden-sm">
+					<div class="display-box">
+						<span class="diyfont"></span>
+					</div>
+				</div>
+				<div class="col-md-9">
+					
 				</div>
 			</div>
 		</div>
