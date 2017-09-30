@@ -1,0 +1,68 @@
+/*any style in index only*/
+
+/*navigation-list style*/
+
+#navigation-list .diyfont {
+	font-size: 100px;
+	cursor: pointer;
+}
+
+#navigation-list {
+	padding-top: 80px;
+}
+
+#navigation-list h4 {
+	text-align: center;
+	padding: 20px;
+}
+
+#navigation-list .display-box {
+	margin: 20px auto;
+	text-align: center;
+	transition: all 0.5s;
+}
+
+#navigation-list .display-box:hover {
+	box-shadow: 4px 3px 3px #3464d9, -4px -3px 3px #49a3dd;
+	color: #34b6d9;
+}
+
+#navigation-list .display-box a {
+	text-decoration: none;
+	display: block;
+	color: #b2d7ff;
+}
+
+#navigation-list .display-box a:hover {
+	color: #e7f3ff;
+}
+
+/*striped section style*/
+
+.striped-section:nth-of-type(odd) {
+	background-color: #337ab7;
+	background-image: -webkit-linear-gradient(160deg, #34b6d9, #3464d9);
+    background-image: linear-gradient(160deg, #34b6d9, #3464d9);
+	opacity: 0.9;
+	color: #fff;
+}
+
+.striped-section:nth-of-type(even) {
+	color:#4990dd;
+}
+
+.striped-section .diyfont {
+	font-size: 150px;
+	cursor: default;
+}
+
+.striped-section .display-box {
+	margin: 20px auto;
+	text-align: center;
+}
+
+.striped-section .display-box a {
+	text-decoration: none;
+	display: block;
+	color: #fff;
+}
