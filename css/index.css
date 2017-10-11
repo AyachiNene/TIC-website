@@ -51,7 +51,15 @@
 }
 
 .striped-section:nth-of-type(even) {
-	color:#4990dd;
+	color: #4990dd;
+}
+
+.striped-section:nth-of-type(odd) a {
+	color: #b2d7ff;
+}
+
+.striped-section:nth-of-type(odd) a:hover {
+	color: #e7f3ff;
 }
 
 .striped-section .diyfont {
@@ -68,4 +76,18 @@
 	text-decoration: none;
 	display: block;
 	color: #fff;
+}
+
+/* news display style */
+
+.news-display {
+	margin: 0 0 10px;
+}
+
+.news-title {
+	float: left;
+}
+
+.news-time {
+	float: right;
 }

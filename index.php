@@ -30,7 +30,7 @@
 				</div>
 				<div class="col-md-3 col-xs-6">
 					<div class="display-box">
-						<a href="#">
+						<a href="#news">
 							<span class="diyfont"></span>
 							<h4>新闻公告</h4>
 						</a>
@@ -97,7 +97,7 @@
 					</div>
 				</div>
 				<div class="col-md-9">
-					<h2>战德臣</h2>
+					<h2>俱乐部简介</h2>
 					<p>1982----1986：毕业于哈尔滨工业大学计算机组织与系统结构专业获学士学位</p>
 					<p>1986----1989：毕业于哈尔滨工业大学计算机应用专业获硕士学位</p>
 					<p>1990----1993：毕业于哈尔滨工业大学计算机应用专业获博士学位</p>
@@ -119,7 +119,37 @@
 					</div>
 				</div>
 				<div class="col-md-9">
-					
+					<h2>新闻公告</h2>
+					<div class="news-display clearfix">
+						<a href="#">
+							<div class="news-title">
+								XXX迟早是我的女人！！！
+							</div>
+							<div class="news-time">
+								1970-01-01
+							</div>
+						</a>
+					</div>
+					<div class="news-display clearfix">
+						<a href="#">
+							<div class="news-title">
+								XXX迟早是你的女人！！！
+							</div>
+							<div class="news-time">
+								2038-12-07
+							</div>
+						</a>
+					</div>
+					<div class="news-display clearfix">
+						<a href="#">
+							<div class="news-title">
+								XXX迟早是他的女人！！！
+							</div>
+							<div class="news-time">
+								1926-08-17
+							</div>
+						</a>
+					</div>
 				</div>
 			</div>
 		</div>

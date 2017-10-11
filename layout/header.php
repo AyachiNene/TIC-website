@@ -20,7 +20,7 @@
 					<li><a href="#" class="diyfont"></a></li>
 	        		<li><a href="#" class="diyfont"></a></li>
 	        		<li><a id="login-button">登录</a></li>
-	        		<li><a href="#">注册</a></li>
+	        		<li><a id="account-button">注册</a></li>
 	      		</ul>
 
 	      		<form class="navbar-form navbar-right" action="search.php" method="get">
